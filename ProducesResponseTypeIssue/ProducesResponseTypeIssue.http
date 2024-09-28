@@ -1,0 +1,8 @@
+@ProducesResponseTypeIssue_HostAddress = https://localhost:7044
+
+
+GET {{ProducesResponseTypeIssue_HostAddress}}/issue/GetWithContentTypeInProducesResponseTypeAttribute
+
+###
+GET {{ProducesResponseTypeIssue_HostAddress}}/issue/GetWithContentTypeInProducesAttribute
+ 
